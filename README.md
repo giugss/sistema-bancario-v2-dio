@@ -1,2 +1,2 @@
-# sistema-bancario-v2-dio
-Desafio de projeto DIO Python
+# Sistema Bancário ver. 2
+Desafio de projeto DIO Python - sistema bancário otimizado
